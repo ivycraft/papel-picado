@@ -10,7 +10,7 @@ I wanted to share this with the rest of the hackerspace community. I hope you li
   * nyan cat- We have a giant Nyan Cat mural on the side of our building
   * bomb truck- this truck is a member project used during rocket launches and ham radio drills
   * key- lots of interest in physical and digital security at the hackerspace
-  * LEDs- blinky things
+  * LEDs- blinky things FTW
   * brain- learning from the community
   * computer- retro computing is best computing
   
