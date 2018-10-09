@@ -1,6 +1,6 @@
 # Papel Picado Designs for PDX Hackerspace
 
-These are some files I used to laser cut paper flags for special events at our hackerspace. They were drawn with pen and paper first, then scanned and traced using inkscape. Some of the lines are wavy because they were hand drawn. Each design has a hackerspace theme, inspired by cool projects and interests.  
+These are some files I used to laser cut paper flags for special events at our hackerspace. Each [papel picado](https://en.wikipedia.org/wiki/Papel_picado "papel picado") was drawn with pen and paper first, then scanned and traced using inkscape. Some of the lines are wavy because they were hand drawn. Each design has a hackerspace theme, inspired by cool projects and interests.  
 
 I wanted to share this with the rest of the hackerspace community. I hope you like it!
 
