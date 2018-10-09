@@ -7,7 +7,7 @@ I wanted to share this with the rest of the hackerspace community. I hope you li
 ### Designs
 
   * hack the planet- referencing [this movie](https://en.wikipedia.org/wiki/Hackers_(film) "Hackers")
-  * nyan cat- We have a giant [nyan cat mural](images\nyancatmural.jpg?raw=true "mural") on the side of our building
+  * nyan cat- We have a giant [nyan cat mural](images/nyancatmural.jpg?raw=true "mural") on the side of our building
   * bomb truck- this truck is a member project used during rocket launches and ham radio drills
   * key- lots of interest in physical and digital security at the hackerspace
   * LEDs- blinky things FTW
