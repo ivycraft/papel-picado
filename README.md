@@ -9,7 +9,7 @@ I wanted to share this with the rest of the hackerspace community. I hope you li
   * [hack the planet](design-files/hack-the-planet.svg "design file")- referencing [this movie](https://en.wikipedia.org/wiki/Hackers_(film) "Hackers Movie Wiki")
   * [nyan cat](design-files/nyan-cat.svg "design file")- We have a giant [nyan cat mural](images/nyan-cat-mural.jpg?raw=true "Mural Pic") on the side of our building
   * [bomb truck](design-files/bomb-truck.svg "design file")- [this truck](images/bomb-truck.jpg?raw=true "Truck Pic") is a member project used during rocket launches and ham radio drills
-  * [key](design-files/lock-diagram "design file")- lots of interest in physical and digital security at the hackerspace
+  * [key](design-files/lock-diagram.svg "design file")- lots of interest in physical and digital security at the hackerspace
   * [LEDs](design-files/leds.svg "design file")- blinky things FTW
   * [brain](design-files/brain.svg "design file")- learning from the community
   * [computer](design-files/computer.svg "design file")- retro computing is best computing
